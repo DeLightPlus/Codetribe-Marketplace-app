@@ -1,0 +1,38 @@
+body 
+{
+  margin: 0;
+  font-family: Arial, sans-serif;
+  width: 100vw;
+}
+
+#root
+{
+  width: 100%;
+  height: 100%;
+}
+
+.App
+{
+  width: 100%;
+}
+
+main
+{
+  position: absolute;
+  top: 100px;
+  width: 100%;
+  background: wheat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 0;
+}
+
+main .container
+{
+  width: 100%; 
+  display: flex;
+  flex-direction: column;
+}
+
+
