@@ -1,6 +1,6 @@
-# CodeTribe Marketplace - README
+# DLP Marketplace - README
 
-Welcome to the CodeTribe Marketplace! This project is an MVP for an online marketplace built with Node.js for the backend and React.js for the frontend. The platform allows users to register, log in, list products, browse products, add products to the cart, and make purchases. Below are the details to get the project up and running.
+Welcome to the DLP Marketplace! This project is an MVP for an online marketplace built with Node.js for the backend and React.js for the frontend. The platform allows users to register, log in, list products, browse products, add products to the cart, and make purchases. Below are the details to get the project up and running.
 
 ## Table of Contents
 - [Backend Setup](#backend-setup)
